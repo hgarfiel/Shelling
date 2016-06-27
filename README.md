@@ -20,3 +20,9 @@ Repeat until no one moves: For each individual:
   While individual wants to move: Move to random location
   
   Check if individual moves or not
+  
+###Diss_Index
+This function calculates the dissimilarity index that is used to determine if an individual will want to move based on the race of his neighbors.
+
+###Shelling
+This is the program that implements the simulation and can be used to derive parameter sensitivity.
