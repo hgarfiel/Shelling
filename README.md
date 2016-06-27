@@ -14,6 +14,9 @@ Equilibrium occurs when everyone is OK with their current location, no one wants
 
 ###Algorithm:
 Repeat until no one moves: For each individual:
+
   Check if individual moves or not: (1) Calculate distance between that individual and everyone else, (2) sort by distance, (3) take 10 closest neighbors and count how many of same type, (4) compare to 10*t
+  
   While individual wants to move: Move to random location
+  
   Check if individual moves or not
